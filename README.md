@@ -67,3 +67,8 @@ For specific dataset and outliers' ratio with specific device:
 ```bash
 python main_exp_real2.py <ind> <device>
 ```
+
+## References
+
+Datasets taken from official ODDS site:
+http://odds.cs.stonybrook.edu/
